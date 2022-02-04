@@ -1,8 +1,3 @@
-/*****************************
- * environment.ts
- * path: '/environment.ts' (root of your project)
- ******************************/
-
  import local from './local'
  import dev from './dev'
  import prod from './prod'

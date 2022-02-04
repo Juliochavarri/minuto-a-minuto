@@ -1,3 +1,3 @@
 export default {
-    apiPost: 'https://jsonplaceholder.typicode.com/'
+    apiPost: 'http://jsonplaceholder.typicode.com/'
 }
